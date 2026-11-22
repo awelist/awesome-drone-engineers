@@ -70,6 +70,7 @@
 - [Dronecode SDK](https://sdk.dronecode.org/): A software development kit (SDK) for drone application development.
 - [Dronology](https://www.dronology.io/): An open-source framework for collaborative drone missions and swarm management.
 - [ROS (Robot Operating System)](https://www.ros.org/): A flexible framework for writing robot software, widely used in drone development.
+- [LRF UART Protocol Decoder](https://github.com/ErdiTech/lrf-uart-protocol-decoder): A web (WebSerial) and Python CLI tool that auto-detects the protocol and baud rate of serial LiDAR / laser rangefinder modules (Benewake TFmini and TF-Luna, LightWare, JRT, Nooploop, DFRobot) and verifies checksums.
 
 ## Open Source Projects
 
